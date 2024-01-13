@@ -1,4 +1,4 @@
-# Mix Contrib - Ruby like dependency management for Elixir
+# Ruby like dependency management for Elixir
 
 ## Why?
 Because we love Ruby and the way bundle adds / removes dependencies and we wanted to have the same for our Elixir projects. This package contains 2 mix functionalities, __mix deps.add__ and __mix deps.rm__. This allows for easy dependency management.
