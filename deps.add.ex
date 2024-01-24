@@ -126,6 +126,6 @@ defmodule Mix.Tasks.Deps.Add do
   end
 
   defp format_output(output, indent) do
-    String.duplicate(" ", indent) <> output
+    String.duplicate(" ", indent) <> output <> ","
   end
 end
